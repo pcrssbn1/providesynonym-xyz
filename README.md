@@ -1,0 +1,1 @@
+# providesynonym-xyz
